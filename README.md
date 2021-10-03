@@ -1,10 +1,12 @@
-# Backend-EzLabor
+# Backend-FreelanceWorld
 Restful API with Spring Boot
 
 ## Integrantes:
--  Andree Jhaire Liñan Ramirez
-- Sebastian Eduardo Noli Peña
-- Renzo Giuliano Ñaña Canturin
-- Juan De Dios Daniel Quiroz Rodriguez
-- Joaquín Ignacio Sánchez Chávez
-- Pablo Sergio Tejada Quijandria
+Integrantes:
+- Arauco Pariona, Hugo Francisco
+- Calle Galdos, Rodrigo Augusto
+- Cuentas Jave, Josue
+- Guerrero Gonzales, Bill
+- Noli Peña, Sebastian
+- Sanchez Morales, Deyvidyorch 
+- Torres Lara, Cesar
